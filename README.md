@@ -2,9 +2,9 @@
 
 ## Tecnologias que estudo e uso no dia a dia
 
-<div >
-  <img align="center" alt="python" scr="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-
-</div>
+  <div style="display: inline_block"> <br/>
+    <img align= "center" alt= "python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  </div>
+  
 
 
