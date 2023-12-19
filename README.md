@@ -12,7 +12,7 @@ Sou apaixonado em resolver problemas lógicos e transformar dados em informaçõ
 <p>📈 Insights de Negócio: Traduzindo dados em estratégias.
 
 ### Meus Cursos de Formação são:
-<p>DSA ACADEMY | Introdução a Ciência de Dados | Nov de 2022 | 12 horas 
+<p>DSA ACADEMY - Introdução a Ciência de Dados | Nov de 2022 | 12 horas 
 <p>DSA ACADEMY – Fundamentos Python para Análise de Dados | Dez de 2022 | 60 horas 
 <p>ALURA - Modelagem de Dados | Jan de 2023 | 39 horas 
 <p>ALURA - Microsoft SQL Server 2022 | Jan de 2023 | 18 horas 
