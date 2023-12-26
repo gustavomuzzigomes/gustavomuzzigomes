@@ -23,8 +23,8 @@ Sou apaixonado em resolver problemas lógicos e transformar dados em informaçõ
 
 ### Contato e mais informações:
 <p>Meu site:  https://gustavomuzzigomes.github.io/meu-site/</p>
-<p>E-mail: gustavom.ng@hotmail.com
 <p>Linkedin: https://www.linkedin.com/in/gustavomuzzi/
+<p>E-mail: gustavom.ng@hotmail.com
 
   
 
