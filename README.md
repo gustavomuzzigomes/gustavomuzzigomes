@@ -22,7 +22,8 @@ Sou apaixonado em resolver problemas lógicos e transformar dados em informaçõ
 <p>ALURA - Estatística com Python | Dez de 2023 | 71 horas 
 
 ### Contato e mais informações:
-<p>e-mail: gustavom.ng@hotmail.com
+<p>Meu site:  https://gustavomuzzigomes.github.io/meu-site/</p>
+<p>E-mail: gustavom.ng@hotmail.com
 <p>Linkedin: https://www.linkedin.com/in/gustavomuzzi/
 
   
